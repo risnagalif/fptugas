@@ -1,0 +1,14 @@
+Headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend (antarmuka pengguna – UI)
+dan lapisan backend (logika bisnis) situs web.
+
+Kelebihan dibanding menyajikan front end secara langsung
+
+1. Dalam Kelincahan
+   pengelola konten dan pengembang front-end mengeluarkan lebih banyak konten 
+   kreatif dengan kecepatan lebih cepat sekaligus mengurangi biaya
+
+2. Dalam Agnostis
+   Dengan kebebasan untuk memilih framework front-end apa pun dan menggunakan 
+   layanan apa pun yang biasa digunakan developer, developer akan meningkatkan
+   kreativitas yang nyata karena mengetahui bahwa pekerjaan mereka tidak akan 
+   dibatasi oleh CMS, cloud, atau database yang dipilih.
